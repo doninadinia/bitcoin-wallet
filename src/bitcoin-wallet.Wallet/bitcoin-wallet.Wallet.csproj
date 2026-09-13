@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>BtcWallet.Wallet</RootNamespace>
+    <AssemblyName>BtcWallet.Wallet</AssemblyName>
+  </PropertyGroup>
+</Project>
