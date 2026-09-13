@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/bitcoin-wallet.Wallet/bitcoin-wallet.Wallet.csproj" />
+    <Project Path="src/bitcoin-wallet.Cli/bitcoin-wallet.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/bitcoin-wallet.Wallet.Tests/bitcoin-wallet.Wallet.Tests.csproj" />
+  </Folder>
+</Solution>
